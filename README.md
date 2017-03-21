@@ -1,5 +1,7 @@
 # Oliver Pluff & Company Creative Brief
 
+This project was created for educational purposes only and does not pertain to the actual Oliver Pluff & Company in any way.
+
 ### Company Overview
 
 Established in 2009, Oliver Pluff & Company provides a range of packaged tea, coffee, and spice blends originating from the same tea gardens that supplied the British East India Company from the early seventeenth to the late nineteenth centuries in the Americas.
@@ -64,4 +66,4 @@ The company's threats include:
 
 ### Link to Prototypes
 
-https://projects.invisionapp.com/d/main#/projects/prototypes/10550783
+https://invis.io/H3AYECEX6
